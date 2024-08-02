@@ -1,7 +1,7 @@
-- 👋 Hi, I’m James Kimando
-- 👀 I’m interested in working with Data
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m open to collaborate on data analysis projects
+- 👋 Hi, I’m James Kimando.
+- 👀 I’m interested in working with Data.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m open to collaborate on data analysis projects.
   
 <!---
 - 📫 How to reach me ...
