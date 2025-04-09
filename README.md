@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Kimando.
 - 👀 I’m interested in working with Data.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m open to collaborate on data analysis projects.
+- 🌱 Certified Data Scientist.
+- 💞️ I’m open to collaborate on Data-Analysis and Machine-Learning projects.
   
 <!---
 - 📫 How to reach me ...
