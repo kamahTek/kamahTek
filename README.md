@@ -3,9 +3,11 @@
 - 🌱 Certified Data Scientist.
 - 💞️ I’m open to collaborate on Data-Analysis and Machine-Learning projects.
   
-<!---
-- 📫 How to reach me ...
+- 📫 How to reach me ;
+  EMAIL ADDRESS : jimhkamah@gmail.com
 - 😄 Pronouns: He/Him
+
+<!---
 - ⚡ Fun fact: ...
 --->
 
